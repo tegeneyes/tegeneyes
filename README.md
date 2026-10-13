@@ -1,49 +1,70 @@
 
-<!-- Change YOUR_USERNAME everywhere to your GitHub username -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:00b894&height=200&section=header&text=YOUR_NAME&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff41,100:00b894&height=210&section=header&text=TEGENE%20WONDIMU&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=13&descAlignY=60&animation=fadeIn" />
 
-# 👋 Hey, I'm YOUR_NAME!
+<a href="https://github.com/tegeneyes">
+  <img src="https://komarev.com/ghpvc/?username=tegeneyes&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
 
-### 💻 Full Stack Developer | 🚀 Problem Solver | 🌱 Lifelong Learner
+<br/><br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00ff41" alt="Profile views" />
-</p>
+### `Building ideas into reality, one commit at a time.`
+
+[![GitHub](https://img.shields.io/badge/GitHub- tegeneyes-00ff41?style=flat-square&logo=github&logoColor=black)](https://github.com/tegeneyes)
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20Developer-00b894?style=flat-square)
+![Learning](https://img.shields.io/badge/Mindset-Always%20Learning-00ff41?style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 I'm passionate about building useful applications.
-- 🌱 Currently learning and improving my development skills.
-- 🛠️ I enjoy turning ideas into real projects.
-- 🎯 My goal is to build software that makes a difference.
-- ⚡ Fun fact: I love learning new technologies!
+```javascript
+const tegeneyes = {
+  name: "Tegene Wondimu",
+  username: "tegeneyes",
+  role: "Full Stack Developer",
+  languages: ["HTML", "CSS", "JavaScript"],
+  frontend: ["React"],
+  backend: ["Node.js"],
+  interests: [
+    "Building useful applications",
+    "Problem solving",
+    "Learning new technologies"
+  ],
+  motto: "Learn. Build. Improve. Repeat."
+};
+
+console.log("Hello, world! 👋");
+```
+
+- 💻 Passionate about building modern web applications.
+- ⚛️ Exploring interactive user experiences with React.
+- 🟢 Developing backend skills with Node.js.
+- 🚀 Turning ideas into practical software projects.
+- 🌱 Always learning and improving my craft.
+
+---
 
 ## 🧰 Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
-</p>
+**Languages**
 
-### Frameworks & Databases
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,tailwind,bootstrap" />
-</p>
+**Frontend & Backend**
 
-### Tools
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" alt="React Node.js Express" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
-</p>
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
+
+</div>
 
 ---
 
@@ -51,13 +72,17 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" />
+<a href="https://github.com/tegeneyes">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tegeneyes&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=E6EDF3&rank_icon=github" alt="Tegene's GitHub stats" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" />
+<a href="https://github.com/tegeneyes">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegeneyes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3" alt="Most used languages" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=tegeneyes&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub contribution streak" />
 
 </div>
 
@@ -65,29 +90,42 @@
 
 ## 🚀 Featured Projects
 
-<!-- Replace these examples with your actual repositories -->
+<!-- Replace these placeholders with your actual project links. -->
 
-- 📌 **Project One** — A useful application I built.
-- 📌 **Project Two** — An interesting project I'm developing.
-- 📌 **Project Three** — A project that showcases my skills.
+- 🔹 **Project One** — Add your project name, description, and repository link.
+- 🔹 **Project Two** — Showcase another application you have built.
+- 🔹 **Project Three** — Highlight a project demonstrating your skills.
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- This animation requires the GitHub Actions workflow to be configured. -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tegeneyes/tegeneyes/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 <div align="center">
+
+<a href="https://github.com/tegeneyes">
+  <img src="https://img.shields.io/badge/GitHub-My%20Profile-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile" />
+</a>
+
+<!-- Add your actual LinkedIn or portfolio URL when available. -->
+
+<br/><br/>
 
 ### 💚 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:00b894&height=100&section=footer" width="100%" />
+*Keep building. Keep learning. Keep growing.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b894,100:050505&height=100&section=footer" />
 
 </div>
