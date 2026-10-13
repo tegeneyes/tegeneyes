@@ -1,19 +1,21 @@
 
+<!--
+  Tegene Wondimu | GitHub Profile
+  Replace the project placeholders before publishing.
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff41,100:00b894&height=210&section=header&text=TEGENE%20WONDIMU&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=13&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:003b1c,100:00ff41&height=190&section=header&text=Tegene%20Wondimu&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=13&descAlignY=60" />
 
-<a href="https://github.com/tegeneyes">
-  <img src="https://komarev.com/ghpvc/?username=tegeneyes&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
+<p>
+  <a href="https://github.com/tegeneyes">
+    <img src="https://img.shields.io/badge/GitHub-tegeneyes-00ff41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00b894?style=for-the-badge" alt="Full stack development" />
+</p>
 
-<br/><br/>
-
-### `Building ideas into reality, one commit at a time.`
-
-[![GitHub](https://img.shields.io/badge/GitHub- tegeneyes-00ff41?style=flat-square&logo=github&logoColor=black)](https://github.com/tegeneyes)
-![Role](https://img.shields.io/badge/Role-Full%20Stack%20Developer-00b894?style=flat-square)
-![Learning](https://img.shields.io/badge/Mindset-Always%20Learning-00ff41?style=flat-square)
+**Building useful products. Solving problems. Growing through code.**
 
 </div>
 
@@ -21,30 +23,14 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const tegeneyes = {
-  name: "Tegene Wondimu",
-  username: "tegeneyes",
-  role: "Full Stack Developer",
-  languages: ["HTML", "CSS", "JavaScript"],
-  frontend: ["React"],
-  backend: ["Node.js"],
-  interests: [
-    "Building useful applications",
-    "Problem solving",
-    "Learning new technologies"
-  ],
-  motto: "Learn. Build. Improve. Repeat."
-};
+Hi, I'm **Tegene Wondimu**, a developer interested in building practical, user-friendly web applications.
 
-console.log("Hello, world! 👋");
-```
+- ⚛️ **Frontend:** HTML, CSS, JavaScript, and React
+- 🟢 **Backend:** Node.js
+- 🛠️ **Interests:** Full-stack development, problem-solving, and building real-world projects
+- 🌱 **Currently:** Strengthening my development skills through hands-on projects
 
-- 💻 Passionate about building modern web applications.
-- ⚛️ Exploring interactive user experiences with React.
-- 🟢 Developing backend skills with Node.js.
-- 🚀 Turning ideas into practical software projects.
-- 🌱 Always learning and improving my craft.
+> My approach: Learn continuously, build consistently, and improve with every project.
 
 ---
 
@@ -52,37 +38,35 @@ console.log("Hello, world! 👋");
 
 <div align="center">
 
-**Languages**
+**Languages & Web**
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" />
 
 **Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" alt="React Node.js Express" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" alt="React, Node.js, Express" />
 
-**Developer Tools**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/tegeneyes">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tegeneyes&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=E6EDF3&rank_icon=github" alt="Tegene's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tegeneyes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&rank_icon=github" alt="Tegene's GitHub statistics" />
+</a><a href="https://github.com/tegeneyes">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegeneyes&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Most used programming languages" />
 </a>
 
-<a href="https://github.com/tegeneyes">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegeneyes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3" alt="Most used languages" />
-</a>
+<br/>
 
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=tegeneyes&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub contribution streak" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=tegeneyes&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 
 </div>
 
@@ -90,42 +74,78 @@ console.log("Hello, world! 👋");
 
 ## 🚀 Featured Projects
 
-<!-- Replace these placeholders with your actual project links. -->
+<!--
+  Replace each placeholder below with a real repository URL.
+  Delete any project entry you don't need.
+-->
 
-- 🔹 **Project One** — Add your project name, description, and repository link.
-- 🔹 **Project Two** — Showcase another application you have built.
-- 🔹 **Project Three** — Highlight a project demonstrating your skills.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔹 Project One
+
+**[YOUR_PROJECT_NAME](YOUR_REPOSITORY_URL)**
+
+A brief description of the problem your application solves and the features you implemented.
+
+**Built with:** Your technologies
+
+    </td>
+    <td width="50%" valign="top">
+
+### ⚡ Project Two
+
+**[YOUR_PROJECT_NAME](YOUR_REPOSITORY_URL)**
+
+Describe another application, the key features, and what you learned while building it.
+
+**Built with:** Your technologies
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 💡 Project Three
+
+**[YOUR_PROJECT_NAME](YOUR_REPOSITORY_URL)**
+
+Showcase a project that demonstrates your backend, database, or full-stack skills.
+
+**Built with:** Your technologies
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🌱 Currently Building
+
+**[YOUR_PROJECT_NAME](YOUR_REPOSITORY_URL)**
+
+Use this space for a real project in progress. Remove this card if you don't have one yet.
+
+**Built with:** Your technologies
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
-
-<!-- This animation requires the GitHub Actions workflow to be configured. -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tegeneyes/tegeneyes/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/tegeneyes">
-  <img src="https://img.shields.io/badge/GitHub-My%20Profile-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Follow on GitHub" />
 </a>
 
-<!-- Add your actual LinkedIn or portfolio URL when available. -->
+<!-- Add a LinkedIn or portfolio badge only after inserting your real URL. -->
 
 <br/><br/>
 
-### 💚 Thanks for visiting my profile!
+*Thanks for stopping by. Have a great day! 💚*
 
-*Keep building. Keep learning. Keep growing.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b894,100:050505&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,55:003b1c,100:050505&height=100&section=footer" />
 
 </div>
